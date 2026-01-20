@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from backend.agent import agent
+from agent import agent
 from backend.schemas import StudyInput, StudyPlanOutput
 import asyncio
 import traceback
