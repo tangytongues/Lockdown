@@ -11,6 +11,7 @@ The goal of Lockdown is simple: **lock your focus and execute your plan**.
 - **Frontend (Vercel):** https://lockdown.vercel.app  
 - **Backend (Render):** https://lockdown-backend.onrender.com  
 - **API Docs (Swagger):** https://lockdown-backend.onrender.com/docs
+<img width="1918" height="925" alt="image" src="https://github.com/user-attachments/assets/81ca43c8-17ca-4413-ba77-478be7b7410d" />
 
 ---
 
